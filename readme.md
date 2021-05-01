@@ -1,11 +1,10 @@
-![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange) [![Netlify Status](https://api.netlify.com/api/v1/badges/7db7e56b-8baa-4768-970f-00e58f6cdb5d/deploy-status)](https://app.netlify.com/sites/torch-fan/deploys) [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml)
-<center>
+![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange)  [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml)
 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QiliangFan&show_icons=true&theme=dracula) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiliangFan&layout=compact)
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QiliangFan&show_icons=true&theme=dracula)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiliangFan&layout=compact) |
+| --| ---|
+| | |
+---
 
 ![PyTorch](https://img.shields.io/static/v1?label=&message=PyTorch&color=%3CCOLOR%3E&logo=PyTorch) 
 ![Python](https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=9cf)
@@ -22,12 +21,15 @@
 ![GitHub Actions](https://img.shields.io/static/v1?style=flat&logo=GitHub%20Actions&label=&message=GitHub%20Actions&color=%23212121)
 ![Vue](https://img.shields.io/static/v1?style=flat&logo=Vue.js&label=&message=Vue.js&color=%23212121)
 ![Docker](https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=yellow)
-</center>
+
+
+
 
 ---
 
 ## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
 ![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.netlify.app%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.netlify.app?logo=Netlify&publish) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7db7e56b-8baa-4768-970f-00e58f6cdb5d/deploy-status)](https://app.netlify.com/sites/torch-fan/deploys)
 <!-- START_SECTION:blog -->
 * <a href='https://torch-fan.netlify.app/2021/04/29/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
 * <a href='https://torch-fan.netlify.app/2021/04/29/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
