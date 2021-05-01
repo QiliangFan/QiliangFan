@@ -1,1 +1,17 @@
+name: Update Blog
 
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    push:
+      branches:
+        - master
+
+jobs:
+  update_social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: zylele/social-readme@master
+        with:
+          blog_rss_link: https://torch-fan.netlify.app/atom.xml
