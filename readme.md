@@ -26,7 +26,7 @@
 
 ---
 
-## Torch-Fan 博客最新内容
+## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
 
 <!-- START_SECTION:blog -->
 * <a href='https://torch-fan.netlify.app/2021/04/29/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
