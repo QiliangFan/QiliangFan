@@ -1,5 +1,4 @@
-![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange) 
-    ![Netlify Status](https://api.netlify.com/api/v1/badges/7db7e56b-8baa-4768-970f-00e58f6cdb5d/deploy-statushttps://app.netlify.com/sites/torch-fan/deploys)
+![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange) [![Netlify Status](https://api.netlify.com/api/v1/badges/7db7e56b-8baa-4768-970f-00e58f6cdb5d/deploy-status)](https://app.netlify.com/sites/torch-fan/deploys) [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml)
 <center>
 
 
