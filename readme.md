@@ -27,7 +27,7 @@
 ---
 
 ## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
-
+![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.netlify.app%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.netlify.app?logo=Netlify&publish) 
 <!-- START_SECTION:blog -->
 * <a href='https://torch-fan.netlify.app/2021/04/29/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
 * <a href='https://torch-fan.netlify.app/2021/04/29/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
