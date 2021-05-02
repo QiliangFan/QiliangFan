@@ -27,11 +27,12 @@
 
 ---
 
-## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
+## [![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
+
 ![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.netlify.app%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.netlify.app?logo=Netlify&publish) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7db7e56b-8baa-4768-970f-00e58f6cdb5d/deploy-status)](https://app.netlify.com/sites/torch-fan/deploys)
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
-[![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)
+
 <!-- START_SECTION:blog -->
 * <a href='https://torch-fan.netlify.app/2021/04/29/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
 * <a href='https://torch-fan.netlify.app/2021/04/29/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
