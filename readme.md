@@ -34,6 +34,8 @@
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.netlify.app/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
+* <a href='https://torch-fan.netlify.app/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/' target='_blank'>Ubuntu 18.04 通过apt安装cuda</a> - 2021-05-05
 * <a href='https://torch-fan.netlify.app/20210504/ubuntu18-04-an-zhuang-mysql/' target='_blank'>Ubuntu18.04 安装mysql</a> - 2021-05-04
 * <a href='https://torch-fan.netlify.app/20210429/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
 * <a href='https://torch-fan.netlify.app/20210429/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
@@ -52,6 +54,4 @@
 * <a href='https://torch-fan.netlify.app/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/' target='_blank'>istio bookinfo微服务搭建testbed流程</a> - 2021-04-26
 * <a href='https://torch-fan.netlify.app/20210424/pytorch-lightning-jian-yao-jie-shao/' target='_blank'>pytorch_lightning简要介绍</a> - 2021-04-24
 * <a href='https://torch-fan.netlify.app/20210424/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/' target='_blank'>Node.js环境搭建过程中遇到的问题及解决方案“</a> - 2021-04-24
-* <a href='https://torch-fan.netlify.app/20210424/tensorflow2-4-0-xian-zhi-xian-cun-zhan-yong/' target='_blank'>Tensorflow2.4.0限制显存占用</a> - 2021-04-24
-* <a href='https://torch-fan.netlify.app/20210424/cuda-python-ban-ben-dui-ying-guan-xi/' target='_blank'>cuda-python版本对应关系</a> - 2021-04-24
 <!-- END_SECTION:blog -->
