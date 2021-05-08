@@ -34,6 +34,9 @@
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/' target='_blank'>git rm --cached无法从仓库区删除某文件</a> - 2021-05-07
+* <a href='https://www.torch-fan.site/20210507/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/' target='_blank'>《Characteristics of Co-Allocated Online Services and Batch Jobs in Internet Data Centers: A Case Study From Alibaba Cloud》论文笔记</a> - 2021-05-07
+* <a href='https://www.torch-fan.site/20210507/github-actions-cao-zuo-issue/' target='_blank'>GitHub Actions操作issue</a> - 2021-05-07
 * <a href='https://www.torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/' target='_blank'>数据库连接URI</a> - 2021-05-06
 * <a href='https://www.torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/' target='_blank'>Ubuntu 18.04 配置VNCSERVER</a> - 2021-05-06
 * <a href='https://www.torch-fan.site/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
@@ -51,7 +54,4 @@
 * <a href='https://www.torch-fan.site/20210427/giththub-actions-de-workflow-yu-fa/' target='_blank'>GitHtHub Actions的Workflow语法</a> - 2021-04-27
 * <a href='https://www.torch-fan.site/20210427/github-actions-yi-shi-yong-actions/' target='_blank'>GitHub Actions(一) 使用Actions</a> - 2021-04-27
 * <a href='https://www.torch-fan.site/20210427/github-actions-kuai-su-kai-shi-fan-yi/' target='_blank'>GitHub Actions快速开始(翻译)</a> - 2021-04-27
-* <a href='https://www.torch-fan.site/20210426/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/' target='_blank'>PyTorch 使用中可能遇到的错误信息</a> - 2021-04-26
-* <a href='https://www.torch-fan.site/20210426/istio-gu-zhang-zhu-ru/' target='_blank'>istio 故障注入</a> - 2021-04-26
-* <a href='https://www.torch-fan.site/20210426/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/' target='_blank'>istio bookinfo微服务搭建testbed流程</a> - 2021-04-26
 <!-- END_SECTION:blog -->
