@@ -34,24 +34,24 @@
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
 
 <!-- START_SECTION:blog -->
-* <a href='https://www.torch-fan.site/20210509/github-actions-chang-yong-actions/' target='_blank'>GitHub Actions常用Actions</a> - 2021-05-09
-* <a href='https://www.torch-fan.site/20210508/xi-la-zi-mu-biao/' target='_blank'>希腊字母表</a> - 2021-05-08
-* <a href='https://www.torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/' target='_blank'>开源协议介绍</a> - 2021-05-07
-* <a href='https://www.torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/' target='_blank'>《Learning Scheduling Algorithms for Data Processing Clusters》</a> - 2021-05-07
-* <a href='https://www.torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/' target='_blank'>git rm --cached无法从仓库区删除某文件</a> - 2021-05-07
-* <a href='https://www.torch-fan.site/20210507/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/' target='_blank'>《Characteristics of Co-Allocated Online Services and Batch Jobs in Internet Data Centers: A Case Study From Alibaba Cloud》论文笔记</a> - 2021-05-07
-* <a href='https://www.torch-fan.site/20210507/github-actions-cao-zuo-issue/' target='_blank'>GitHub Actions操作issue</a> - 2021-05-07
-* <a href='https://www.torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/' target='_blank'>数据库连接URI</a> - 2021-05-06
-* <a href='https://www.torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/' target='_blank'>Ubuntu 18.04 配置VNCSERVER</a> - 2021-05-06
-* <a href='https://www.torch-fan.site/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
-* <a href='https://www.torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/' target='_blank'>Ubuntu 18.04 通过apt安装cuda</a> - 2021-05-05
-* <a href='https://www.torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/' target='_blank'>Ubuntu18.04 安装mysql</a> - 2021-05-04
-* <a href='https://www.torch-fan.site/20210429/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
-* <a href='https://www.torch-fan.site/20210429/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
-* <a href='https://www.torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/' target='_blank'>GitHub 访问速度慢解决方法</a> - 2021-04-29
-* <a href='https://www.torch-fan.site/20210428/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/' target='_blank'>使用 PyTorch Lightning中遇到的问题和解决方法</a> - 2021-04-28
-* <a href='https://www.torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/' target='_blank'>vscode 使用中遇到的问题</a> - 2021-04-27
-* <a href='https://www.torch-fan.site/20210427/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/' target='_blank'>Windows SSH使用中遇到的中文用户名问题</a> - 2021-04-27
-* <a href='https://www.torch-fan.site/20210427/github-actions-er-shi-yong-jing-yan/' target='_blank'>GitHub Actions(二) 使用经验</a> - 2021-04-27
-* <a href='https://www.torch-fan.site/20210427/github-actions-zhi-chi-de-shell/' target='_blank'>GitHub Actions 支持的shell</a> - 2021-04-27
+* <a href='https://torch-fan.site/20210509/github-actions-chang-yong-actions/' target='_blank'>GitHub Actions常用Actions</a> - 2021-05-09
+* <a href='https://torch-fan.site/20210508/xi-la-zi-mu-biao/' target='_blank'>希腊字母表</a> - 2021-05-08
+* <a href='https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/' target='_blank'>开源协议介绍</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/' target='_blank'>《Learning Scheduling Algorithms for Data Processing Clusters》</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/' target='_blank'>git rm --cached无法从仓库区删除某文件</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/' target='_blank'>《Characteristics of Co-Allocated Online Services and Batch Jobs in Internet Data Centers: A Case Study From Alibaba Cloud》论文笔记</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/github-actions-cao-zuo-issue/' target='_blank'>GitHub Actions操作issue</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/' target='_blank'>数据库连接URI</a> - 2021-05-06
+* <a href='https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/' target='_blank'>Ubuntu 18.04 配置VNCSERVER</a> - 2021-05-06
+* <a href='https://torch-fan.site/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
+* <a href='https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/' target='_blank'>Ubuntu 18.04 通过apt安装cuda</a> - 2021-05-05
+* <a href='https://torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/' target='_blank'>Ubuntu18.04 安装mysql</a> - 2021-05-04
+* <a href='https://torch-fan.site/20210429/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
+* <a href='https://torch-fan.site/20210429/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
+* <a href='https://torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/' target='_blank'>GitHub 访问速度慢解决方法</a> - 2021-04-29
+* <a href='https://torch-fan.site/20210428/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/' target='_blank'>使用 PyTorch Lightning中遇到的问题和解决方法</a> - 2021-04-28
+* <a href='https://torch-fan.site/20210427/vscode-shi-yong-zhong-yu-dao-de-wen-ti/' target='_blank'>vscode 使用中遇到的问题</a> - 2021-04-27
+* <a href='https://torch-fan.site/20210427/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/' target='_blank'>Windows SSH使用中遇到的中文用户名问题</a> - 2021-04-27
+* <a href='https://torch-fan.site/20210427/github-actions-er-shi-yong-jing-yan/' target='_blank'>GitHub Actions(二) 使用经验</a> - 2021-04-27
+* <a href='https://torch-fan.site/20210427/github-actions-zhi-chi-de-shell/' target='_blank'>GitHub Actions 支持的shell</a> - 2021-04-27
 <!-- END_SECTION:blog -->
