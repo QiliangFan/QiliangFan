@@ -34,10 +34,12 @@
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/' target='_blank'>上GitHub不要梯子</a> - 2021-05-14
+* <a href='https://torch-fan.site/20210514/docker-cao-zuo/' target='_blank'>docker操作</a> - 2021-05-14
 * <a href='https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/' target='_blank'>图神经网络-图嵌入(深度学习方法)</a> - 2021-05-13
 * <a href='https://torch-fan.site/20210512/tu-shen-jing-wang-luo-sui-ji-you-zou/' target='_blank'>图神经网络-随机游走</a> - 2021-05-12
 * <a href='https://torch-fan.site/20210512/tu-shen-jing-wang-luo-deepwalk/' target='_blank'>图神经网络-DeepWalk</a> - 2021-05-12
-* <a href='https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/' target='_blank'></a> - 2021-05-11
+* <a href='https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/' target='_blank'>图神经网络-图嵌入</a> - 2021-05-11
 * <a href='https://torch-fan.site/20210509/github-actions-chang-yong-actions/' target='_blank'>GitHub Actions常用Actions</a> - 2021-05-09
 * <a href='https://torch-fan.site/20210508/xi-la-zi-mu-biao/' target='_blank'>希腊字母表</a> - 2021-05-08
 * <a href='https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/' target='_blank'>开源协议介绍</a> - 2021-05-07
@@ -52,6 +54,4 @@
 * <a href='https://torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/' target='_blank'>Ubuntu18.04 安装mysql</a> - 2021-05-04
 * <a href='https://torch-fan.site/20210429/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
 * <a href='https://torch-fan.site/20210429/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
-* <a href='https://torch-fan.site/20210429/github-fang-wen-su-du-man-jie-jue-fang-fa/' target='_blank'>GitHub 访问速度慢解决方法</a> - 2021-04-29
-* <a href='https://torch-fan.site/20210428/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/' target='_blank'>使用 PyTorch Lightning中遇到的问题和解决方法</a> - 2021-04-28
 <!-- END_SECTION:blog -->
