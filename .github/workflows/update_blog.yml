@@ -18,8 +18,3 @@ jobs:
           blog_rss_link: https://torch-fan.netlify.app/atom.xml
           blog_limit: 5
 
-      - name: wiki
-        uses: zylele/social-readme@master
-        with:
-          blog_rss_link: https://wiki.torch-fan.netlify.app/atom.xml
-          blog_limit: 5
