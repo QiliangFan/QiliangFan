@@ -34,6 +34,9 @@
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/20210515/dockerfile-yu-fa/' target='_blank'>Dockerfile 语法</a> - 2021-05-15
+* <a href='https://torch-fan.site/20210515/github-actions-chang-yong-dai-ma-pian-duan/' target='_blank'>GitHub Actions常用代码片段</a> - 2021-05-15
+* <a href='https://torch-fan.site/20210515/github-shang-xia-wen-huan-jing/' target='_blank'>GitHub 上下文环境</a> - 2021-05-15
 * <a href='https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/' target='_blank'>上GitHub不要梯子</a> - 2021-05-14
 * <a href='https://torch-fan.site/20210514/docker-cao-zuo/' target='_blank'>docker操作</a> - 2021-05-14
 * <a href='https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/' target='_blank'>图神经网络-图嵌入(深度学习方法)</a> - 2021-05-13
@@ -51,7 +54,4 @@
 * <a href='https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/' target='_blank'>Ubuntu 18.04 配置VNCSERVER</a> - 2021-05-06
 * <a href='https://torch-fan.site/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
 * <a href='https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/' target='_blank'>Ubuntu 18.04 通过apt安装cuda</a> - 2021-05-05
-* <a href='https://torch-fan.site/20210504/ubuntu18-04-an-zhuang-mysql/' target='_blank'>Ubuntu18.04 安装mysql</a> - 2021-05-04
-* <a href='https://torch-fan.site/20210429/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
-* <a href='https://torch-fan.site/20210429/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
 <!-- END_SECTION:blog -->
