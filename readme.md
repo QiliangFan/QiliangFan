@@ -57,7 +57,3 @@
 * <a href='https://torch-fan.site/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
 * <a href='https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/' target='_blank'>Ubuntu 18.04 通过apt安装cuda</a> - 2021-05-05
 <!-- END_SECTION:blog -->
-
-<!-- START_SECTION:wiki -->
-
-<!-- END_SECTION:wiki -->
