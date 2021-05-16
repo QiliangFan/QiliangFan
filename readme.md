@@ -34,24 +34,28 @@
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
 
 <!-- START_SECTION:blog -->
-* <a href='https://torch-fan.netlify.app/2021/04/29/wang-zhan-shou-cang/' target='_blank'>网站收藏(长期更新)</a> - 2021-04-29
-* <a href='https://torch-fan.netlify.app/2021/04/29/github-bang-ni-zhao-que-xian/' target='_blank'>GitHub 帮你找缺陷</a> - 2021-04-29
-* <a href='https://torch-fan.netlify.app/2021/04/29/github-fang-wen-su-du-man-jie-jue-fang-fa/' target='_blank'>GitHub 访问速度慢解决方法</a> - 2021-04-29
-* <a href='https://torch-fan.netlify.app/2021/04/28/shi-yong-pytorch-lightning-zhong-yu-dao-de-wen-ti-he-jie-jue-fang-fa/' target='_blank'>使用 PyTorch Lightning中遇到的问题和解决方法</a> - 2021-04-28
-* <a href='https://torch-fan.netlify.app/2021/04/27/vscode-shi-yong-zhong-yu-dao-de-wen-ti/' target='_blank'>vscode 使用中遇到的问题</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/27/windows-ssh-shi-yong-zhong-yu-dao-de-zhong-wen-yong-hu-ming-wen-ti/' target='_blank'>Windows SSH使用中遇到的中文用户名问题</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/27/github-actions-er-shi-yong-jing-yan/' target='_blank'>GitHub Actions(二) 使用经验</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/27/github-actions-zhi-chi-de-shell/' target='_blank'>GitHub Actions 支持的shell</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/27/github-actions-mo-shi-pi-pei-gui-ze/' target='_blank'>GitHub Actions模式匹配规则</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/27/giththub-actions-de-workflow-yu-fa/' target='_blank'>GitHtHub Actions的Workflow语法</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/27/github-actions-yi-shi-yong-actions/' target='_blank'>GitHub Actions(一) 使用Actions</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/27/github-actions-kuai-su-kai-shi-fan-yi/' target='_blank'>GitHub Actions快速开始(翻译)</a> - 2021-04-27
-* <a href='https://torch-fan.netlify.app/2021/04/26/pytorch-shi-yong-zhong-ke-neng-yu-dao-de-cuo-wu-xin-xi/' target='_blank'>PyTorch 使用中可能遇到的错误信息</a> - 2021-04-26
-* <a href='https://torch-fan.netlify.app/2021/04/26/istio-gu-zhang-zhu-ru/' target='_blank'>istio 故障注入</a> - 2021-04-26
-* <a href='https://torch-fan.netlify.app/2021/04/26/istio-bookinfo-wei-fu-wu-da-jian-testbed-liu-cheng/' target='_blank'>istio bookinfo微服务搭建testbed流程</a> - 2021-04-26
-* <a href='https://torch-fan.netlify.app/2021/04/24/pytorch-lightning-jian-yao-jie-shao/' target='_blank'>pytorch_lightning简要介绍</a> - 2021-04-24
-* <a href='https://torch-fan.netlify.app/2021/04/24/node-js-huan-jing-da-jian-guo-cheng-zhong-yu-dao-de-wen-ti-ji-jie-jue-fang-an/' target='_blank'>Node.js环境搭建过程中遇到的问题及解决方案“</a> - 2021-04-24
-* <a href='https://torch-fan.netlify.app/2021/04/24/tensorflow2-4-0-xian-zhi-xian-cun-zhan-yong/' target='_blank'>Tensorflow2.4.0限制显存占用</a> - 2021-04-24
-* <a href='https://torch-fan.netlify.app/2021/04/24/cuda-python-ban-ben-dui-ying-guan-xi/' target='_blank'>cuda-python版本对应关系</a> - 2021-04-24
-* <a href='https://torch-fan.netlify.app/2021/04/23/guo-ni-he-wen-ti-jie-jue-si-lu/' target='_blank'>过拟合问题解决思路</a> - 2021-04-23
+* <a href='https://torch-fan.site/20210515/dockerfile-yu-fa/' target='_blank'>Dockerfile 语法</a> - 2021-05-15
+* <a href='https://torch-fan.site/20210515/github-actions-chang-yong-dai-ma-pian-duan/' target='_blank'>GitHub Actions常用代码片段</a> - 2021-05-15
+* <a href='https://torch-fan.site/20210515/github-shang-xia-wen-huan-jing/' target='_blank'>GitHub 上下文环境</a> - 2021-05-15
+* <a href='https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/' target='_blank'>上GitHub不要梯子</a> - 2021-05-14
+* <a href='https://torch-fan.site/20210514/docker-cao-zuo/' target='_blank'>docker操作</a> - 2021-05-14
+* <a href='https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/' target='_blank'>图神经网络-图嵌入(深度学习方法)</a> - 2021-05-13
+* <a href='https://torch-fan.site/20210512/tu-shen-jing-wang-luo-sui-ji-you-zou/' target='_blank'>图神经网络-随机游走</a> - 2021-05-12
+* <a href='https://torch-fan.site/20210512/tu-shen-jing-wang-luo-deepwalk/' target='_blank'>图神经网络-DeepWalk</a> - 2021-05-12
+* <a href='https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/' target='_blank'>图神经网络-图嵌入</a> - 2021-05-11
+* <a href='https://torch-fan.site/20210509/github-actions-chang-yong-actions/' target='_blank'>GitHub Actions常用Actions</a> - 2021-05-09
+* <a href='https://torch-fan.site/20210508/xi-la-zi-mu-biao/' target='_blank'>希腊字母表</a> - 2021-05-08
+* <a href='https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/' target='_blank'>开源协议介绍</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/' target='_blank'>《Learning Scheduling Algorithms for Data Processing Clusters》</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/' target='_blank'>git rm --cached无法从仓库区删除某文件</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/' target='_blank'>《Characteristics of Co-Allocated Online Services and Batch Jobs in Internet Data Centers: A Case Study From Alibaba Cloud》论文笔记</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210507/github-actions-cao-zuo-issue/' target='_blank'>GitHub Actions操作issue</a> - 2021-05-07
+* <a href='https://torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/' target='_blank'>数据库连接URI</a> - 2021-05-06
+* <a href='https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/' target='_blank'>Ubuntu 18.04 配置VNCSERVER</a> - 2021-05-06
+* <a href='https://torch-fan.site/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
+* <a href='https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/' target='_blank'>Ubuntu 18.04 通过apt安装cuda</a> - 2021-05-05
 <!-- END_SECTION:blog -->
+
+<!-- START_SECTION:wiki -->
+
+<!-- END_SECTION:wiki -->
