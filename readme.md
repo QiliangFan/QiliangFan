@@ -32,9 +32,8 @@
 
 ## [![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
 
-![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.netlify.app%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.netlify.app?logo=Netlify&publish) 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7db7e56b-8baa-4768-970f-00e58f6cdb5d/deploy-status)](https://app.netlify.com/sites/torch-fan/deploys)
-![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/busuanzi/branches/master&query=$.site_uv&label=visitor)
+![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.site?logo=Netlify&publish) 
+![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-8g8r9vtmwdre.runkit.sh&query=$.site_uv&label=visitor)
 
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
