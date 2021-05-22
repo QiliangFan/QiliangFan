@@ -15,6 +15,6 @@ jobs:
       - name: blog
         uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://torch-fan.netlify.app/atom.xml
-          blog_limit: 5
+          blog_rss_link: https://torch-fan.site/atom.xml
+          blog_limit: 10
 
