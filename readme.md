@@ -38,24 +38,5 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
-* <a href='https://torch-fan.site/20210515/dockerfile-yu-fa/' target='_blank'>Dockerfile 语法</a> - 2021-05-15
-* <a href='https://torch-fan.site/20210515/github-actions-chang-yong-dai-ma-pian-duan/' target='_blank'>GitHub Actions常用代码片段</a> - 2021-05-15
-* <a href='https://torch-fan.site/20210515/github-shang-xia-wen-huan-jing/' target='_blank'>GitHub 上下文环境</a> - 2021-05-15
-* <a href='https://torch-fan.site/20210514/ni-shang-github-huan-yao-ti-zi/' target='_blank'>上GitHub不要梯子</a> - 2021-05-14
-* <a href='https://torch-fan.site/20210514/docker-cao-zuo/' target='_blank'>docker操作</a> - 2021-05-14
-* <a href='https://torch-fan.site/20210513/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/' target='_blank'>图神经网络-图嵌入(深度学习方法)</a> - 2021-05-13
-* <a href='https://torch-fan.site/20210512/tu-shen-jing-wang-luo-sui-ji-you-zou/' target='_blank'>图神经网络-随机游走</a> - 2021-05-12
-* <a href='https://torch-fan.site/20210512/tu-shen-jing-wang-luo-deepwalk/' target='_blank'>图神经网络-DeepWalk</a> - 2021-05-12
-* <a href='https://torch-fan.site/20210511/tu-shen-jing-wang-luo-tu-qian-ru/' target='_blank'>图神经网络-图嵌入</a> - 2021-05-11
-* <a href='https://torch-fan.site/20210509/github-actions-chang-yong-actions/' target='_blank'>GitHub Actions常用Actions</a> - 2021-05-09
-* <a href='https://torch-fan.site/20210508/xi-la-zi-mu-biao/' target='_blank'>希腊字母表</a> - 2021-05-08
-* <a href='https://torch-fan.site/20210507/kai-yuan-xie-yi-jie-shao/' target='_blank'>开源协议介绍</a> - 2021-05-07
-* <a href='https://torch-fan.site/20210507/learning-scheduling-algorithms-for-data-processing-clusters/' target='_blank'>《Learning Scheduling Algorithms for Data Processing Clusters》</a> - 2021-05-07
-* <a href='https://torch-fan.site/20210507/git-rm-cached-wu-fa-cong-cang-ku-qu-shan-chu-mou-wen-jian/' target='_blank'>git rm --cached无法从仓库区删除某文件</a> - 2021-05-07
-* <a href='https://torch-fan.site/20210507/characteristics-of-co-allocated-online-services-and-batch-jobs-in-internet-data-centers-a-case-study-from-alibaba-cloud-lun-wen-bi-ji/' target='_blank'>《Characteristics of Co-Allocated Online Services and Batch Jobs in Internet Data Centers: A Case Study From Alibaba Cloud》论文笔记</a> - 2021-05-07
-* <a href='https://torch-fan.site/20210507/github-actions-cao-zuo-issue/' target='_blank'>GitHub Actions操作issue</a> - 2021-05-07
-* <a href='https://torch-fan.site/20210506/shu-ju-ku-lian-jie-uri/' target='_blank'>数据库连接URI</a> - 2021-05-06
-* <a href='https://torch-fan.site/20210506/ubuntu-18-04-pei-zhi-vncserver/' target='_blank'>Ubuntu 18.04 配置VNCSERVER</a> - 2021-05-06
-* <a href='https://torch-fan.site/20210505/c-xi-ti-2021-05-05/' target='_blank'>C++ 习题(2021.05.05)</a> - 2021-05-05
-* <a href='https://torch-fan.site/20210505/ubuntu-18-04-tong-guo-apt-an-zhuang-cuda/' target='_blank'>Ubuntu 18.04 通过apt安装cuda</a> - 2021-05-05
+
 <!-- END_SECTION:blog -->
