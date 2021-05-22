@@ -39,9 +39,5 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
-* <a href='https://torch-fan.site/2021/05/15/github-shang-xia-wen-huan-jing/' target='_blank'>GitHub 上下文环境</a> - 2021-05-15
-* <a href='https://torch-fan.site/2021/05/14/ni-shang-github-huan-yao-ti-zi/' target='_blank'>上GitHub不要梯子</a> - 2021-05-14
-* <a href='https://torch-fan.site/2021/05/13/tu-shen-jing-wang-luo-tu-qian-ru-shen-du-xue-xi-fang-fa/' target='_blank'>图神经网络-图嵌入(深度学习方法)</a> - 2021-05-13
-* <a href='https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-sui-ji-you-zou/' target='_blank'>图神经网络-随机游走</a> - 2021-05-12
-* <a href='https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-deepwalk/' target='_blank'>图神经网络-DeepWalk</a> - 2021-05-12
+
 <!-- END_SECTION:blog -->
