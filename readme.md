@@ -1,4 +1,4 @@
-![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange)  [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml) ![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev/&query=$.site_uv&label=visitor)
+![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange)  [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml) ![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=visitor)
 
 
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QiliangFan&show_icons=true&theme=dracula)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiliangFan&layout=compact) |
