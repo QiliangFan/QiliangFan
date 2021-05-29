@@ -1,4 +1,4 @@
-![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange)  [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml) ![visitor](https://img.shields.io/badge/dynamic/json?url=https://runkit.io/qiliangfan/github-busuanzi/branches/master&query=$.site_uv&label=visitor)
+![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange)  [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml) ![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev/&query=$.site_uv&label=visitor)
 
 
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QiliangFan&show_icons=true&theme=dracula)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiliangFan&layout=compact) |
@@ -33,7 +33,7 @@
 ## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
 [![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)
 ![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.site?logo=Netlify&publish) 
-![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-8g8r9vtmwdre.runkit.sh&query=$.site_uv&label=visitor)
+![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=visitor)
 
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
