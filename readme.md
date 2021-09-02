@@ -38,6 +38,7 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/2021/09/01/kuai-su-pai-xu/' target='_blank'>快速排序</a> - 2021-09-01
 * <a href='https://torch-fan.site/2021/07/25/python-round-han-shu/' target='_blank'>Python round() 函数</a> - 2021-07-25
 * <a href='https://torch-fan.site/2021/05/21/github-fang-wen-su-du-man-jie-jue-fang-fa-guo-nei-you-hao-ban/' target='_blank'>GitHub 访问速度慢解决方法 国内友好版</a> - 2021-05-21
 * <a href='https://torch-fan.site/2021/05/15/github-shang-xia-wen-huan-jing/' target='_blank'>GitHub 上下文环境</a> - 2021-05-15
@@ -47,5 +48,4 @@
 * <a href='https://torch-fan.site/2021/05/12/tu-shen-jing-wang-luo-deepwalk/' target='_blank'>图神经网络-DeepWalk</a> - 2021-05-12
 * <a href='https://torch-fan.site/2021/05/11/tu-shen-jing-wang-luo-tu-qian-ru/' target='_blank'>图神经网络-图嵌入</a> - 2021-05-11
 * <a href='https://torch-fan.site/2021/05/08/xi-la-zi-mu-biao/' target='_blank'>希腊字母表</a> - 2021-05-08
-* <a href='https://torch-fan.site/2021/05/07/kai-yuan-xie-yi-jie-shao/' target='_blank'>开源协议介绍</a> - 2021-05-07
 <!-- END_SECTION:blog -->
