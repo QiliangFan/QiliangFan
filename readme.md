@@ -34,6 +34,7 @@
 [![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)
 ![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.site?logo=Netlify&publish) 
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=visitor)
+[![REFRESH_CLASH](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml/badge.svg?branch=main)](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml)
 
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
