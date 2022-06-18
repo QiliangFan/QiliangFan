@@ -39,5 +39,6 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/2022/06/17/%E5%8D%97%E5%BC%80%E7%BD%91%E5%85%B3%E7%9A%84API/' target='_blank'>南开网关的API</a> - 2022-06-17
 * <a href='https://torch-fan.site/2022/05/25/hello/' target='_blank'>Hello~</a> - 2022-05-25
 <!-- END_SECTION:blog -->
