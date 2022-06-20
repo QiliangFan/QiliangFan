@@ -39,6 +39,7 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/2022/06/19/%E6%8F%92%E5%80%BC%E6%96%B9%E6%B3%95%E5%AF%B9%E5%9B%BE%E5%83%8F%E4%BF%9D%E7%9C%9F%E5%BA%A6%E7%9A%84%E5%BD%B1%E5%93%8D/' target='_blank'>插值方法对图像保真度的影响</a> - 2022-06-19
 * <a href='https://torch-fan.site/2022/06/17/%E5%8D%97%E5%BC%80%E7%BD%91%E5%85%B3%E7%9A%84API/' target='_blank'>南开网关的API</a> - 2022-06-17
 * <a href='https://torch-fan.site/2022/05/25/hello/' target='_blank'>Hello~</a> - 2022-05-25
 <!-- END_SECTION:blog -->
