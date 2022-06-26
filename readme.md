@@ -39,6 +39,7 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/2022/06/25/%E7%94%B1Github%E6%89%98%E7%AE%A1%E7%9A%84%E8%AE%B0%E7%AC%94%E8%AE%B0%E6%96%B9%E5%BC%8F/' target='_blank'>由Github托管的记笔记方式</a> - 2022-06-25
 * <a href='https://torch-fan.site/2022/06/21/DNS-server%E6%95%B4%E7%90%86/' target='_blank'>DNS server整理(持续更新)</a> - 2022-06-20
 * <a href='https://torch-fan.site/2022/06/20/EWMA/' target='_blank'>EWMA（指数加权平均法）</a> - 2022-06-20
 * <a href='https://torch-fan.site/2022/06/19/%E6%8F%92%E5%80%BC%E6%96%B9%E6%B3%95%E5%AF%B9%E5%9B%BE%E5%83%8F%E4%BF%9D%E7%9C%9F%E5%BA%A6%E7%9A%84%E5%BD%B1%E5%93%8D/' target='_blank'>插值方法对图像保真度的影响</a> - 2022-06-19
