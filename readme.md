@@ -39,6 +39,8 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/2022/06/27/522-%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97/' target='_blank'>522.最长特殊序列</a> - 2022-06-27
+* <a href='https://torch-fan.site/2022/06/27/%E4%BD%BF%E7%94%A8Gitbook%E4%B9%A6%E5%86%99%E6%96%87%E6%A1%A3/' target='_blank'>使用Gitbook书写文档(不推荐)</a> - 2022-06-27
 * <a href='https://torch-fan.site/2022/06/27/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/' target='_blank'>机场推荐</a> - 2022-06-26
 * <a href='https://torch-fan.site/2022/06/25/%E7%94%B1Github%E6%89%98%E7%AE%A1%E7%9A%84%E8%AE%B0%E7%AC%94%E8%AE%B0%E6%96%B9%E5%BC%8F/' target='_blank'>由Github托管的记笔记方式</a> - 2022-06-25
 * <a href='https://torch-fan.site/2022/06/21/DNS-server%E6%95%B4%E7%90%86/' target='_blank'>DNS server整理(持续更新)</a> - 2022-06-20
