@@ -42,9 +42,9 @@
 * <a href='https://torch-fan.site/2022/06/30/Endnote%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%B4%B4%E5%A3%AB/' target='_blank'>Endnote使用小贴士</a> - 2022-06-30
 * <a href='https://torch-fan.site/2022/06/27/522-%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97/' target='_blank'>522.最长特殊序列</a> - 2022-06-27
 * <a href='https://torch-fan.site/2022/06/27/%E4%BD%BF%E7%94%A8Gitbook%E4%B9%A6%E5%86%99%E6%96%87%E6%A1%A3/' target='_blank'>使用Gitbook书写文档(不推荐)</a> - 2022-06-27
-* <a href='https://torch-fan.site/2022/06/27/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/' target='_blank'>机场推荐</a> - 2022-06-26
+* <a href='https://torch-fan.site/2022/06/26/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/' target='_blank'>机场推荐</a> - 2022-06-26
 * <a href='https://torch-fan.site/2022/06/25/%E7%94%B1Github%E6%89%98%E7%AE%A1%E7%9A%84%E8%AE%B0%E7%AC%94%E8%AE%B0%E6%96%B9%E5%BC%8F/' target='_blank'>由Github托管的记笔记方式</a> - 2022-06-25
-* <a href='https://torch-fan.site/2022/06/21/DNS-server%E6%95%B4%E7%90%86/' target='_blank'>DNS server整理(持续更新)</a> - 2022-06-20
+* <a href='https://torch-fan.site/2022/06/20/DNS-server%E6%95%B4%E7%90%86/' target='_blank'>DNS server整理(持续更新)</a> - 2022-06-20
 * <a href='https://torch-fan.site/2022/06/20/EWMA/' target='_blank'>EWMA（指数加权平均法）</a> - 2022-06-20
 * <a href='https://torch-fan.site/2022/06/19/%E6%8F%92%E5%80%BC%E6%96%B9%E6%B3%95%E5%AF%B9%E5%9B%BE%E5%83%8F%E4%BF%9D%E7%9C%9F%E5%BA%A6%E7%9A%84%E5%BD%B1%E5%93%8D/' target='_blank'>插值方法对图像保真度的影响</a> - 2022-06-19
 * <a href='https://torch-fan.site/2022/06/17/%E5%8D%97%E5%BC%80%E7%BD%91%E5%85%B3%E7%9A%84API/' target='_blank'>南开网关的API</a> - 2022-06-17
