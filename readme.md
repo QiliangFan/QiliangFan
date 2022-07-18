@@ -39,6 +39,7 @@
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
 
 <!-- START_SECTION:blog -->
+* <a href='https://torch-fan.site/2022/07/17/Linux%E5%86%85%E6%A0%B8%E4%B8%8E%E6%A0%B9%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/' target='_blank'>Linux内核与根文件系统</a> - 2022-07-17
 * <a href='https://torch-fan.site/2022/07/16/%E8%99%9A%E6%8B%9F%E5%8C%96-2-%E8%99%9A%E6%8B%9F%E5%8C%96%E6%A6%82%E8%BF%B0/' target='_blank'>虚拟化(2):虚拟化概述</a> - 2022-07-16
 * <a href='https://torch-fan.site/2022/07/13/%E8%99%9A%E6%8B%9F%E5%8C%96-1-%E5%89%8D%E8%A8%80/' target='_blank'>虚拟化(1):前言</a> - 2022-07-13
 * <a href='https://torch-fan.site/2022/07/11/clash%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E9%A2%84%E5%A4%84%E7%90%86/' target='_blank'>clash配置文件预处理</a> - 2022-07-11
@@ -48,5 +49,4 @@
 * <a href='https://torch-fan.site/2022/06/26/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/' target='_blank'>机场推荐</a> - 2022-06-26
 * <a href='https://torch-fan.site/2022/06/25/%E7%94%B1Github%E6%89%98%E7%AE%A1%E7%9A%84%E8%AE%B0%E7%AC%94%E8%AE%B0%E6%96%B9%E5%BC%8F/' target='_blank'>由Github托管的记笔记方式</a> - 2022-06-25
 * <a href='https://torch-fan.site/2022/06/20/DNS-server%E6%95%B4%E7%90%86/' target='_blank'>DNS server整理(持续更新)</a> - 2022-06-20
-* <a href='https://torch-fan.site/2022/06/20/EWMA/' target='_blank'>EWMA（指数加权平均法）</a> - 2022-06-20
 <!-- END_SECTION:blog -->
