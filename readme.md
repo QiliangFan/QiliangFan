@@ -32,7 +32,7 @@
 
 ## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
 [![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)
-![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/torch-fan.site?logo=Netlify&publish) 
+![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=Website%20Observatory&logo=github&publish) 
 ![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=visitor)
 [![REFRESH_CLASH](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml/badge.svg?branch=main)](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml)
 
