@@ -31,12 +31,18 @@
 ---
 
 ## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
-[![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)
-![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) ![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=Website%20Observatory&logo=github&publish) 
-![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=visitor)
-[![REFRESH_CLASH](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml/badge.svg?branch=main)](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml)
+| |
+| :--: |
+|[![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)|
+|![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) |
+|![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=Website%20Observatory&logo=github&publish) |
+|![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=visitor)|
+|[![REFRESH_CLASH](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml/badge.svg?branch=main)](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml)|
+|![](https://img.shields.io/hsts/preload/torch-fan.site?style=flat-square)|
+|![](https://img.shields.io/security-headers?logo=github&url=https%3A%2F%2Fwww.torch-fan.site)|
 
 > 欢迎来访[wiki](https://wiki.torch-fan.site) 
+
 
 <!-- START_SECTION:blog -->
 * <a href='https://www.torch-fan.site/2022/07/20/Ubuntu%E4%B8%8B%E7%9A%84%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE/' target='_blank'>Ubuntu下的代理配置</a> - 2022-07-20
