@@ -11,7 +11,7 @@
     </tr>
 </table>
 
-<table style="margin-left: auto; margin-right: auto; border: none;">
+<table style="margin-left: auto; margin-right: auto; border-collapse:collapse;">
     <tr>
         <td> <code class="shadow-cyan"><img src="https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor&style=plastic" /> </code></td>
         <td><img style="transform: scale(1); display: inline-block; margin:0; padding: 0;" src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif"/></td>
