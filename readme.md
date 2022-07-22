@@ -1,27 +1,11 @@
 <link href="./style.css" type="text/css" rel="stylesheet">
 
-<span style="text-align: center; display: block;">
- 
-</span>
+<h3 align="center">
+    Hi, I am Qiliang Fan <img width="50" style="margin:0; padding: 0; border: none;" src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif"/>
+</h3>
 
-<table style="margin-left: auto; margin-right: auto; border: none;">
-    <tr>
-        <td>Hi, I'm Qiliang Fan~</td>
-        <td><img style="transform: scale(1); display: inline-block; margin:0; padding: 0;" src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif"/></td>
-    </tr>
-</table>
-
-<table style="margin-left: auto; margin-right: auto; border-collapse:collapse;">
-    <tr>
-        <td> <code class="shadow-cyan"><img src="https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor&style=plastic" /> </code></td>
-        <td><img style="transform: scale(1); display: inline-block; margin:0; padding: 0;" src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif"/></td>
-    </tr>
-</table>
-
-
-
-<!-- |<code class="shadow-cyan">![readme visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor&style=plastic) </code> | <code class="shadow-cyan">![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=blog%20visitor&style=plastic)</code> | <code class="shadow-green">![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=blog%20observatory&logo=github&publish&style=plastic) </code> |
-| :--: | :--: | :--: | -->
+|<code class="shadow-cyan">![readme visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor&style=plastic) </code> | <code class="shadow-cyan">![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=blog%20visitor&style=plastic)</code> | <code class="shadow-green">![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=blog%20observatory&logo=github&publish&style=plastic) </code> |
+| :--: | :--: | :--: |
 
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiliangfan&theme=nord_bright) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qiliangfan&theme=nord_bright)|
