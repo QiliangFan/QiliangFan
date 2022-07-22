@@ -1,0 +1,7 @@
+td, th {
+    border: none!important;
+} 
+
+.shadow-cyan {
+    box-shadow: 0px 2px 5px cyan;
+}

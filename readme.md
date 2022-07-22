@@ -1,8 +1,6 @@
-<style> td, th {border: none!important;} .shadow-cyan {box-shadow: 0px 2px 5px cyan;</style>
+<link href="./style.css" type="text/css" rel="stylesheet">
 
-<link href="" type="text/css" rel="stylesheet"></link>
-
-| <code class="shadow-cyan">![readme visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor) </code> | <code class="shadow-cyan">![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=blog%20visitor)</code> | ![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=blog%20observatory&logo=github&publish)  |
+|<code class="shadow-cyan">![readme visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor) </code> | <code class="shadow-cyan">![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=blog%20visitor)</code> | ![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=blog%20observatory&logo=github&publish)  |
 | :--: | :--: | :--: |
 
 
