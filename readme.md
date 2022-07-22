@@ -45,14 +45,14 @@
 
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2022/07/21/Rust%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/' target='_blank'>Rust基础用法</a> - 2022-07-21
+* <a href='https://www.torch-fan.site/2022/07/21/Ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker/' target='_blank'>Ubuntu上使用docker</a> - 2022-07-21
+* <a href='https://www.torch-fan.site/2022/07/21/%E7%BD%91%E7%AB%99%E7%9A%84%E5%AE%89%E5%85%A8%E8%AE%BE%E7%BD%AE/' target='_blank'>网站的Header--安全设置</a> - 2022-07-21
+* <a href='https://www.torch-fan.site/2022/07/21/modules/' target='_blank'>Modules</a> - 2022-07-21
+* <a href='https://www.torch-fan.site/2022/07/21/Ubuntu%E5%B8%B8%E7%94%A8%E7%9A%84%E6%8C%87%E4%BB%A4%E5%92%8C%E9%85%8D%E7%BD%AE/' target='_blank'>Ubuntu常用的指令和配置</a> - 2022-07-21
+* <a href='https://www.torch-fan.site/2022/07/21/rust%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/' target='_blank'>rust相关基础知识</a> - 2022-07-21
+* <a href='https://www.torch-fan.site/2022/07/21/use%E5%A3%B0%E6%98%8E%E8%AF%AD%E5%8F%A5/' target='_blank'>use声明语句</a> - 2022-07-21
+* <a href='https://www.torch-fan.site/2022/07/21/Rust%E6%B3%A8%E9%87%8A/' target='_blank'>Rust注释</a> - 2022-07-20
 * <a href='https://www.torch-fan.site/2022/07/20/Ubuntu%E4%B8%8B%E7%9A%84%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE/' target='_blank'>Ubuntu下的代理配置</a> - 2022-07-20
-* <a href='https://www.torch-fan.site/2022/07/20/Derive/' target='_blank'>Derive</a> - 2022-07-20
-* <a href='https://www.torch-fan.site/2022/07/19/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BF%AB%E9%80%9F%E9%85%8D%E7%BD%AESSL%E8%AF%81%E4%B9%A6/' target='_blank'>云服务器快速配置SSL证书</a> - 2022-07-19
-* <a href='https://www.torch-fan.site/2022/07/18/Linux%E5%86%85%E6%A0%B8%E4%B8%8E%E6%A0%B9%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/' target='_blank'>Linux内核与根文件系统</a> - 2022-07-17
-* <a href='https://www.torch-fan.site/2022/07/16/%E8%99%9A%E6%8B%9F%E5%8C%96-2-%E8%99%9A%E6%8B%9F%E5%8C%96%E6%A6%82%E8%BF%B0/' target='_blank'>虚拟化(2):虚拟化概述</a> - 2022-07-16
-* <a href='https://www.torch-fan.site/2022/07/14/%E8%99%9A%E6%8B%9F%E5%8C%96-1-%E5%89%8D%E8%A8%80/' target='_blank'>虚拟化(1):前言</a> - 2022-07-13
-* <a href='https://www.torch-fan.site/2022/07/11/clash%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E9%A2%84%E5%A4%84%E7%90%86/' target='_blank'>clash配置文件预处理</a> - 2022-07-11
-* <a href='https://www.torch-fan.site/2022/06/30/Endnote%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%B4%B4%E5%A3%AB/' target='_blank'>Endnote使用小贴士</a> - 2022-06-30
-* <a href='https://www.torch-fan.site/2022/06/27/522-%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97/' target='_blank'>522.最长特殊序列</a> - 2022-06-27
-* <a href='https://www.torch-fan.site/2022/06/27/%E4%BD%BF%E7%94%A8Gitbook%E4%B9%A6%E5%86%99%E6%96%87%E6%A1%A3/' target='_blank'>使用Gitbook书写文档(不推荐)</a> - 2022-06-27
+* <a href='https://www.torch-fan.site/2022/07/20/Attribute/' target='_blank'>Attributes</a> - 2022-07-20
 <!-- END_SECTION:blog -->
