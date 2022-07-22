@@ -30,9 +30,8 @@
 
 ---
 
+## 博客最新内容
 <div style="box-shadow: 0px 0px 5px gray">
-## 博客最新内容()
-
 
 <!-- START_SECTION:blog -->
 * <a href='https://www.torch-fan.site/2022/07/21/Rust%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/' target='_blank'>Rust基础用法</a> - 2022-07-21
