@@ -5,3 +5,7 @@ td, th {
 .shadow-cyan {
     box-shadow: 0px 2px 5px cyan;
 }
+
+.shadow-green {
+    box-shadow: 0px 2px 5px rgb(129, 255, 160);
+}
