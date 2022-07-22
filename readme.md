@@ -1,7 +1,19 @@
-![alt name](https://img.shields.io/badge/fan%20qiliang-NanKai-orange)  [![Update Blog](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml/badge.svg)](https://github.com/QiliangFan/QiliangFan/actions/workflows/update_blog.yml) ![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=visitor)
+<style>
+    td, th {
+        border: none!important;
+    }
+    .shadow-cyan {
+        box-shadow: 0px 2px 5px cyan;
+    }
+</style>
+
+| <code class="shadow-cyan">![readme visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor) </code> | <code class="shadow-cyan">![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=blog%20visitor)<code> | ![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=blog%20observatory&logo=github&publish)  |
+| :--: | :--: | :--: |
 
 
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QiliangFan&show_icons=true&theme=dracula)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiliangFan&layout=compact) |
+
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiliangfan&theme=nord_bright)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qiliangfan&theme=nord_bright)|
 | --| ---|
 
 ---
@@ -31,12 +43,7 @@
 ---
 
 ## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
-| |
-| :--: |
-|[![github page](https://img.shields.io/github/deployments/qiliangfan/qiliangfan.github.io/github-pages?style=for-the-badge)](https://github.com/QiliangFan/qiliangfan.github.io)|
-|![blog](https://img.shields.io/website?logo=Netlify&url=https%3A%2F%2Ftorch-fan.site%2F) |
-|![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=Website%20Observatory&logo=github&publish) |
-|![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=visitor)|
+||
 |[![REFRESH_CLASH](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml/badge.svg?branch=main)](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml)|
 |![](https://img.shields.io/hsts/preload/torch-fan.site?style=flat-square)|
 |![](https://img.shields.io/security-headers?logo=github&url=https%3A%2F%2Fwww.torch-fan.site)|
