@@ -4,10 +4,9 @@
 | :--: | :--: | :--: |
 
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiliangfan&theme=nord_bright)  | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qiliangfan&theme=nord_bright)|
+| <div>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiliangfan&theme=nord_bright) </div> | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qiliangfan&theme=nord_bright)|
 | --| ---|
 
----
 
 ![PyTorch](https://img.shields.io/static/v1?label=&message=PyTorch&color=%3CCOLOR%3E&logo=PyTorch) 
 ![Python](https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=9cf)
@@ -29,17 +28,10 @@
 ![Docker](https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=yellow)
 
 
-
-
 ---
 
-## Torch-Fan 博客最新内容(该列表由GitHub CI自动更新)
-||
-|[![REFRESH_CLASH](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml/badge.svg?branch=main)](https://github.com/QiliangFan/share/actions/workflows/refresh_clash.yml)|
-|![](https://img.shields.io/hsts/preload/torch-fan.site?style=flat-square)|
-|![](https://img.shields.io/security-headers?logo=github&url=https%3A%2F%2Fwww.torch-fan.site)|
-
-> 欢迎来访[wiki](https://wiki.torch-fan.site) 
+<div style="box-shadow: 0px 0px 5px gray">
+## 博客最新内容()
 
 
 <!-- START_SECTION:blog -->
@@ -54,3 +46,5 @@
 * <a href='https://www.torch-fan.site/2022/07/20/Ubuntu%E4%B8%8B%E7%9A%84%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE/' target='_blank'>Ubuntu下的代理配置</a> - 2022-07-20
 * <a href='https://www.torch-fan.site/2022/07/20/Attribute/' target='_blank'>Attributes</a> - 2022-07-20
 <!-- END_SECTION:blog -->
+
+<div>
