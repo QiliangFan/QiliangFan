@@ -4,13 +4,15 @@
     <img src="https://media1.giphy.com/media/xUOwFXiC5Nfq6SKBKo/giphy.gif" width="30"/> Hi, I am Qiliang Fan <img width="50" style="margin:0; padding: 0; border: none;" src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif"/>
 </h3>
 
-|<code class="shadow-cyan">![readme visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor&style=plastic) </code> | <code class="shadow-cyan">![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=blog%20visitor&style=plastic)</code> | <code class="shadow-green">![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=blog%20observatory&logo=github&publish&style=plastic) </code> |
-| :--: | :--: | :--: |
+|<code class="shadow-cyan">![readme visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-github.torch-fan.workers.dev&query=$.site_uv&label=readme%20visitor&style=plastic) </code> | <code class="shadow-cyan">![visitor](https://img.shields.io/badge/dynamic/json?url=https://busuanzi-torch-fan.torch-fan.workers.dev/&query=$.site_uv&label=blog%20visitor&style=plastic)</code> | <code class="shadow-green">![web1](https://img.shields.io/mozilla-observatory/grade-score/www.torch-fan.site?label=blog%20observatory&logo=github&publish&style=plastic) </code> | [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.torch-fan.site/)  |
+| :--: | :--: | :--: | :--: |
 
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qiliangfan&theme=nord_bright) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qiliangfan&theme=nord_bright)|
 | --| ---|
 
+| ![](https://github-profile-trophy.vercel.app/?username=qiliangfan&column=7&theme=dracula) |
+| :--: |
 
 
 ---
