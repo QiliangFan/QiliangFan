@@ -21,6 +21,7 @@
 <div style="box-shadow: 0px 0px 5px gray">
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2022/07/26/Rust%E4%BD%BF%E7%94%A8%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>Rust使用中遇到的问题</a> - 2022-07-26
 * <a href='https://www.torch-fan.site/2022/07/21/Rust%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/' target='_blank'>Rust基础用法</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/Ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker/' target='_blank'>Ubuntu上使用docker</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/%E7%BD%91%E7%AB%99%E7%9A%84%E5%AE%89%E5%85%A8%E8%AE%BE%E7%BD%AE/' target='_blank'>网站的Header--安全设置</a> - 2022-07-21
@@ -30,7 +31,6 @@
 * <a href='https://www.torch-fan.site/2022/07/21/use%E5%A3%B0%E6%98%8E%E8%AF%AD%E5%8F%A5/' target='_blank'>use声明语句</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/Rust%E6%B3%A8%E9%87%8A/' target='_blank'>Rust注释</a> - 2022-07-20
 * <a href='https://www.torch-fan.site/2022/07/20/Ubuntu%E4%B8%8B%E7%9A%84%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE/' target='_blank'>Ubuntu下的代理配置</a> - 2022-07-20
-* <a href='https://www.torch-fan.site/2022/07/20/Attribute/' target='_blank'>Attributes</a> - 2022-07-20
 <!-- END_SECTION:blog -->
 
 <div>
