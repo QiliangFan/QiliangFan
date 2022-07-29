@@ -21,6 +21,7 @@
 <div style="box-shadow: 0px 0px 5px gray">
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2022/07/28/LaTex%E5%9F%BA%E7%A1%80-Figure/' target='_blank'>LaTex基础-Figure</a> - 2022-07-28
 * <a href='https://www.torch-fan.site/2022/07/27/git%E5%B7%A5%E5%85%B7%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/' target='_blank'>git工具用法小结</a> - 2022-07-27
 * <a href='https://www.torch-fan.site/2022/07/26/Rust%E4%BD%BF%E7%94%A8%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>Rust使用中遇到的问题</a> - 2022-07-26
 * <a href='https://www.torch-fan.site/2022/07/21/Rust%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/' target='_blank'>Rust基础用法</a> - 2022-07-21
@@ -30,7 +31,6 @@
 * <a href='https://www.torch-fan.site/2022/07/21/Ubuntu%E5%B8%B8%E7%94%A8%E7%9A%84%E6%8C%87%E4%BB%A4%E5%92%8C%E9%85%8D%E7%BD%AE/' target='_blank'>Ubuntu常用的指令和配置</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/rust%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/' target='_blank'>rust相关基础知识</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/use%E5%A3%B0%E6%98%8E%E8%AF%AD%E5%8F%A5/' target='_blank'>use声明语句</a> - 2022-07-21
-* <a href='https://www.torch-fan.site/2022/07/21/Rust%E6%B3%A8%E9%87%8A/' target='_blank'>Rust注释</a> - 2022-07-20
 <!-- END_SECTION:blog -->
 
 <div>
