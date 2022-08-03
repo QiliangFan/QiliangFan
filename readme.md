@@ -21,6 +21,7 @@
 <div style="box-shadow: 0px 0px 5px gray">
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2022/08/02/LaTex%E5%9F%BA%E7%A1%80-Table/' target='_blank'>LaTex基础-Table</a> - 2022-08-02
 * <a href='https://www.torch-fan.site/2022/07/29/LaTex%E5%B0%8F%E6%8A%80%E5%B7%A7/' target='_blank'>LaTex小技巧</a> - 2022-07-29
 * <a href='https://www.torch-fan.site/2022/07/28/LaTex%E5%9F%BA%E7%A1%80-Figure/' target='_blank'>LaTex基础-Figure</a> - 2022-07-28
 * <a href='https://www.torch-fan.site/2022/07/27/git%E5%B7%A5%E5%85%B7%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/' target='_blank'>git工具用法小结</a> - 2022-07-27
@@ -30,7 +31,6 @@
 * <a href='https://www.torch-fan.site/2022/07/21/%E7%BD%91%E7%AB%99%E7%9A%84%E5%AE%89%E5%85%A8%E8%AE%BE%E7%BD%AE/' target='_blank'>网站的Header--安全设置</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/modules/' target='_blank'>Modules</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/Ubuntu%E5%B8%B8%E7%94%A8%E7%9A%84%E6%8C%87%E4%BB%A4%E5%92%8C%E9%85%8D%E7%BD%AE/' target='_blank'>Ubuntu常用的指令和配置</a> - 2022-07-21
-* <a href='https://www.torch-fan.site/2022/07/21/rust%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/' target='_blank'>rust相关基础知识</a> - 2022-07-21
 <!-- END_SECTION:blog -->
 
 <div>
