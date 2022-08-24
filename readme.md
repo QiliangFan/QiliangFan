@@ -21,6 +21,8 @@
 <div style="box-shadow: 0px 0px 5px gray">
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2022/08/23/matplotlib%E7%9A%84%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE/' target='_blank'>matplotlib的常用设置</a> - 2022-08-23
+* <a href='https://www.torch-fan.site/2022/08/15/kernel%E5%92%8Crootfs%E9%95%9C%E5%83%8F%E6%9E%84%E5%BB%BA/' target='_blank'>kernel和rootfs镜像构建</a> - 2022-08-15
 * <a href='https://www.torch-fan.site/2022/08/02/Rust%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/' target='_blank'>Rust错误处理</a> - 2022-08-02
 * <a href='https://www.torch-fan.site/2022/08/02/LaTex%E5%9F%BA%E7%A1%80-Table/' target='_blank'>LaTex基础-Table</a> - 2022-08-02
 * <a href='https://www.torch-fan.site/2022/07/29/LaTex%E5%B0%8F%E6%8A%80%E5%B7%A7/' target='_blank'>LaTex小技巧</a> - 2022-07-29
@@ -29,8 +31,6 @@
 * <a href='https://www.torch-fan.site/2022/07/26/Rust%E4%BD%BF%E7%94%A8%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>Rust使用中遇到的问题</a> - 2022-07-26
 * <a href='https://www.torch-fan.site/2022/07/21/Rust%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/' target='_blank'>Rust基础用法</a> - 2022-07-21
 * <a href='https://www.torch-fan.site/2022/07/21/Ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker/' target='_blank'>Ubuntu上使用docker</a> - 2022-07-21
-* <a href='https://www.torch-fan.site/2022/07/21/%E7%BD%91%E7%AB%99%E7%9A%84%E5%AE%89%E5%85%A8%E8%AE%BE%E7%BD%AE/' target='_blank'>网站的Header--安全设置</a> - 2022-07-21
-* <a href='https://www.torch-fan.site/2022/07/21/modules/' target='_blank'>Modules</a> - 2022-07-21
 <!-- END_SECTION:blog -->
 
 <div>
