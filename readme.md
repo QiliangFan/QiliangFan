@@ -21,6 +21,8 @@
 <div style="box-shadow: 0px 0px 5px gray">
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2022/09/23/vscode%E8%BF%9E%E6%8E%A5%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%B0%8F%E8%B4%B4%E5%A3%AB/' target='_blank'>vscode连接虚拟机小贴士</a> - 2022-09-23
+* <a href='https://www.torch-fan.site/2022/09/22/CMU-Bomblab-%E6%B1%87%E7%BC%96%E5%B0%8F%E7%AC%94%E8%AE%B0/' target='_blank'>CMU Bomblab(汇编小笔记)</a> - 2022-09-22
 * <a href='https://www.torch-fan.site/2022/09/04/Generate-204%E9%93%BE%E6%8E%A5%E6%94%B6%E9%9B%86/' target='_blank'>Generate 204链接收集</a> - 2022-09-04
 * <a href='https://www.torch-fan.site/2022/09/03/dbs%E7%BB%93%E9%A1%B9%E6%8A%A5%E5%91%8A/' target='_blank'>dbs结项报告</a> - 2022-09-03
 * <a href='https://www.torch-fan.site/2022/08/24/Linux%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%8C%87%E4%BB%A4%E6%94%B6%E9%9B%86/' target='_blank'>Linux个人使用指令收集</a> - 2022-08-24
@@ -29,8 +31,6 @@
 * <a href='https://www.torch-fan.site/2022/08/02/Rust%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/' target='_blank'>Rust错误处理</a> - 2022-08-02
 * <a href='https://www.torch-fan.site/2022/08/02/LaTex%E5%9F%BA%E7%A1%80-Table/' target='_blank'>LaTex基础-Table</a> - 2022-08-02
 * <a href='https://www.torch-fan.site/2022/07/29/LaTex%E5%B0%8F%E6%8A%80%E5%B7%A7/' target='_blank'>LaTex小技巧</a> - 2022-07-29
-* <a href='https://www.torch-fan.site/2022/07/28/LaTex%E5%9F%BA%E7%A1%80-Figure/' target='_blank'>LaTex基础-Figure</a> - 2022-07-28
-* <a href='https://www.torch-fan.site/2022/07/27/git%E5%B7%A5%E5%85%B7%E7%94%A8%E6%B3%95%E5%B0%8F%E7%BB%93/' target='_blank'>git工具用法小结</a> - 2022-07-27
 <!-- END_SECTION:blog -->
 
 <div>
