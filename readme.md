@@ -21,6 +21,7 @@
 <div style="box-shadow: 0px 0px 5px gray">
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2023/04/13/Linux-%E8%BF%9B%E7%A8%8B%E8%B0%83%E8%AF%95/' target='_blank'>Linux 进程调试</a> - 2023-04-13
 * <a href='https://www.torch-fan.site/2023/04/11/eBPF%E4%BD%BF%E7%94%A8/' target='_blank'>(二)eBPF的Hello World</a> - 2023-04-11
 * <a href='https://www.torch-fan.site/2023/04/11/eBPF/' target='_blank'>(一)什么是eBPF?为什么eBPF非常重要?</a> - 2023-04-11
 * <a href='https://www.torch-fan.site/2023/04/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Skip-List-%E8%B7%B3%E8%A1%A8/' target='_blank'>Skip List(跳表)</a> - 2023-04-08
@@ -30,7 +31,6 @@
 * <a href='https://www.torch-fan.site/2023/02/09/%E9%80%9A%E8%BF%87Remote-Forward%E8%AE%A9%E6%97%A0%E8%81%94%E7%BD%91%E6%9D%83%E9%99%90%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%81%94%E7%BD%91/' target='_blank'>通过Remote Forward让无联网权限服务器联网</a> - 2023-02-09
 * <a href='https://www.torch-fan.site/2023/01/03/%E6%90%AD%E5%BB%BAVECROsim%E7%AC%94%E8%AE%B0/' target='_blank'>搭建VECROsim笔记</a> - 2023-01-03
 * <a href='https://www.torch-fan.site/2022/12/26/%E6%90%AD%E5%BB%BAGoogle-OnlineBoutique%E6%B5%81%E7%A8%8B/' target='_blank'>搭建Google OnlineBoutique流程</a> - 2022-12-26
-* <a href='https://www.torch-fan.site/2022/11/26/Ubuntu%E4%BD%BF%E7%94%A8EasyConnect%E8%BF%9E%E6%8E%A5%E5%AD%A6%E6%A0%A1%E6%9C%8D%E5%8A%A1%E5%99%A8/' target='_blank'>Ubuntu使用EasyConnect连接学校服务器</a> - 2022-11-26
 <!-- END_SECTION:blog -->
 
 <div>
