@@ -21,6 +21,7 @@
 <div style="box-shadow: 0px 0px 5px gray">
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.torch-fan.site/2023/05/03/pt-regs%E5%B0%8F%E7%AC%94%E8%AE%B0/' target='_blank'>pt_regs小笔记</a> - 2023-05-03
 * <a href='https://www.torch-fan.site/2023/05/02/Linux%E5%86%85%E6%A0%B8%E8%B0%83%E8%AF%95%E5%92%8CPerf-Tracing/' target='_blank'>Linux内核调试和Perf Tracing</a> - 2023-05-02
 * <a href='https://www.torch-fan.site/2023/04/26/%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81-include-net-inet-sock-h/' target='_blank'>内核源码-/include/net/inet_sock.h</a> - 2023-04-26
 * <a href='https://www.torch-fan.site/2023/04/26/%E5%86%85%E6%A0%B8%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/' target='_blank'>内核相关资料整理</a> - 2023-04-26
@@ -30,7 +31,6 @@
 * <a href='https://www.torch-fan.site/2023/04/11/eBPF/' target='_blank'>(一)什么是eBPF?为什么eBPF非常重要?</a> - 2023-04-11
 * <a href='https://www.torch-fan.site/2023/04/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Skip-List-%E8%B7%B3%E8%A1%A8/' target='_blank'>Skip List(跳表)</a> - 2023-04-08
 * <a href='https://www.torch-fan.site/2023/04/03/%E9%9D%A2%E8%AF%95%E9%AB%98%E9%A2%91%E9%A2%98-%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E4%B8%AD%E6%89%BE%E5%88%B0%E5%85%B7%E6%9C%89%E6%9F%90%E4%B8%AA%E7%89%B9%E5%BE%81%E7%9A%84%E6%95%B0%E5%AD%97/' target='_blank'>面试高频题:海量数据中找到具有某个特征的数字</a> - 2023-04-03
-* <a href='https://www.torch-fan.site/2023/04/01/%E5%80%92%E6%B0%B4%E9%97%AE%E9%A2%98/' target='_blank'>扩展欧几里得算法和倒水问题</a> - 2023-04-01
 <!-- END_SECTION:blog -->
 
 <div>
